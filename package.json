@@ -1,0 +1,27 @@
+{
+  "name": "simple-crud",
+  "version": "1.0.0",
+  "description": "Simple CRUD using node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "CRUD",
+    "node",
+    "js",
+    "simple",
+    "crud"
+  ],
+  "author": "ALt24\u001b[D\u001b[D\u001b[l\u001b[F\u001b[B\u001b[F\u001b[B",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4",
+    "sequelize": "^6.3.3",
+    "sequelize-cli": "^6.2.0"
+  }
+}
