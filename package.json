@@ -16,8 +16,8 @@
   "author": "ALt24\u001b[D\u001b[D\u001b[l\u001b[F\u001b[B\u001b[F\u001b[B",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
     "mysql": "^2.18.1",
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.4",
